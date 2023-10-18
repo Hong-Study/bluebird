@@ -1,6 +1,6 @@
 # camp2022_bluebird
 스마일게이트 개발 캠프 2022 - 윈터 개발 캠프 2기 - Blue Bird
-
+(프로젝트 세부 코드 및 담당 코드는 /src 파일에 존재합니다)
 The project has been initialized.
 
 ## 목차
@@ -20,6 +20,7 @@ The project has been initialized.
 
 ### 각 스택 및 담당
 - 게임 클라이언트 : Unity (팀원, 팀원), **Socket(홍지현)**
+
 **- 게임 서버 및 매치메이킹 서버 : C++ - IOCP (홍지현)**
 - 웹 플랫폼 : Python - FastAPI, Socket-TCP/IP (팀원)
 - NPC 서버 : C++ - Boost::Asio Library (팀원)
