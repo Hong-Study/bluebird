@@ -2,6 +2,7 @@
 스마일게이트 개발 캠프 2022 - 윈터 개발 캠프 2기 - Blue Bird
 
 (프로젝트 세부 코드 및 담당 코드는 /src 파일에 존재합니다)
+
 The project has been initialized.
 
 ## 목차
