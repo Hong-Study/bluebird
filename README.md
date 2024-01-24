@@ -17,6 +17,9 @@ The project has been initialized.
 # 프로젝트 개요
 - 모두가 흥미롭게 개발할 수 있는 공통된 게임 분야이며 개개인의 도전 목표가 적절히 녹아 있는 폴 가이즈의 클론 프로젝트
 
+### 개발 기간
+2022.12 ~ 2023.02
+
 ### 시스템 아키텍처
 ![image](https://user-images.githubusercontent.com/48054868/221210118-c19a660d-947e-46a3-a76d-bee3a08def3e.png)
 
