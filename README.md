@@ -30,6 +30,8 @@ The project has been initialized.
 - NPC 서버 : C++ - Boost::Asio Library (팀원)
 - DB : MySQL, Redis (팀원)
 
+- 코드 설명 및 전체 파일 : ![src](https://github.com/Hong-Study/bluebird/tree/main/src/)
+
 # 테스트 순서 및 실행 방식
 - 게임서버 -> NPC서버 -> 매치서버 -> 웹 서버
 1. 유저는 웹에서 회원가입 또는 로그인을 하여 클라를 실행.
